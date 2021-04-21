@@ -100,7 +100,7 @@ $ sudo a2ensite projectlamp
 ```bash
 $ sudo a2dissite 000-default
 ```
-#To check for Synthax errors
+### To check for Synthax errors
 ```bash
 $ sudo apache2ctl configtest
 ```
